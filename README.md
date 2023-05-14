@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/talizz/README.md/main/2bcc0e11960ebe99ec2c4d402328a970.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img align="right" width="300" src="https://i.pinimg.com/originals/2b/cc/0e/2bcc0e11960ebe99ec2c4d402328a970.gif">
 
 <p align="left">
   😺 <strong>Tálita Souza da Silva</strong>
@@ -19,5 +19,27 @@
 </p>
 
 <p align="left">
-  📂 <strong>O que estou estudando atualmente:</strong>
+  📂 <strong>O que estou estudando atualmente:</strong> Front-End I
 </p>
+
+<p align="left">
+<a href="https://mailto:tltss2@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mailto:tltss2@gmail.com"></a>
+
+<a href="https://www.linkedin.com/in/t%C3%A1lita-souza-9426b5229/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/t%C3%A1lita-souza-9426b5229"></a>
+  
+  <a href="https://wa.me/5514991627579" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5514991627579"></a>
+  
+ <a href="https://instagram.com/taalizz" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/taalizz"></a> 
+</p>
+
+<a href="https://github.com/talizz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talizz&theme=dracula&hide_langs_below=1">
+</a>
+<br>
+<a href="https://github.com/talizz">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=talizz&show_icons=true&theme=dracula&line_height=27" alt="talizz github stats">
+</a>
