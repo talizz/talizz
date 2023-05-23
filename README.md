@@ -35,11 +35,3 @@
  <a href="https://instagram.com/taalizz" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/taalizz"></a> 
 </p>
-
-<a href="https://github.com/talizz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talizz&theme=dracula&hide_langs_below=1">
-</a>
-<br>
-<a href="https://github.com/talizz">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=talizz&show_icons=true&theme=dracula&line_height=27" alt="talizz github stats">
-</a>
