@@ -26,7 +26,7 @@
 <a href="https://mailto:tltss2@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mailto:tltss2@gmail.com"></a>
 
-<a href="https://www.linkedin.com/in/t%C3%A1lita-souza-9426b5229/" alt="Linkedin">
+<a href="https://www.linkedin.com/in/t%C3%A1lita-souza-9426b5229/" alt="Linkedin" target=_blank>
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/t%C3%A1lita-souza-9426b5229"></a>
   
   <a href="https://wa.me/5514991627579" alt="WhatsApp">
