@@ -10,7 +10,7 @@
 
 <p align="left">
   📚 <strong>Formação:</strong> Sou formada em Geografia pela Unesp Ourinhos - SP,
-  e atualmente estudo Redes de Computadores no Senac Ourinhos - SP e estou na 15ª edição do programa
+  e atualmente estudo Jogos Digitais na Fatec Ourinhos - SP e Redes de Computadores no Senac Ourinhos - SP e estou na 15ª edição do programa
   Starter Full Stack Web Developer na Growdev.
 </p>
 
